@@ -2,7 +2,7 @@
 
 The objective of this assignment was to create an animated real-time music video demonstrating the real-time animation concepts taught within the course.
 
-My music video is set to a section of the song "A Million Dreams" from the musical/film The Greatest Showman covered by Pink.
+My music video is set to a section of the song "A Million Dreams" from the musical/film The Greatest Showman, covered by Pink.
 
 ### Required Features
 
